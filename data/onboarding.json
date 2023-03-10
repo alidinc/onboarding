@@ -9,7 +9,7 @@
         "imageName": "bookmark.fill",
         "title": "Find your favorites",
         "subtitle" : "Save your favorite games to your wish list, purchased list, or played list and easily search for them whenever you want.",
-        "imageTypeId" : 0
+        "imageTypeId" : 1
     },
     {
         "imageName" : "Onboarding",
