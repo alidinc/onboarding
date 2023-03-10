@@ -1,7 +1,7 @@
 [
     {
         "imageName" : "hands.sparkles.fill",
-        "title": "Welcome to GoodGames",
+        "title": "Welcome to Ali Dinc",
         "subtitle": "Discover the world of video games.",
         "imageTypeId": 1
     },
@@ -9,7 +9,7 @@
         "imageName": "bookmark.fill",
         "title": "Find your favorites",
         "subtitle" : "Save your favorite games to your wish list, purchased list, or played list and easily search for them whenever you want.",
-        "imageTypeId" : 1
+        "imageTypeId" : 0
     },
     {
         "imageName" : "Onboarding",
