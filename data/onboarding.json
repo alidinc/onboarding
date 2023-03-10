@@ -1,26 +1,28 @@
-[
-  {
-    "imageName" : "hands.sparkles.fill",
-    "title": "Welcome to GoodGames",
-    "subtitle": "Discover the world of video games.",
-    "imageTypeId": 1
-  },
-  {
-    "imageName": "bookmark.fill",
-    "title": "Find your favorites",
-    "subtitle" : "Save your favorite games to your wish list, purchased list, or played list and easily search for them whenever you want.",
-    "imageTypeId" : 0 
-  },
-  {
-    "imageName" : "Onboarding",
-    "title" : "Filter or browse categories with our magical buttons!",
-    "subtitle" : "You can filter by platform, genre, and categories to find the video games you want.",
-    "imageTypeId" : 0
-  },
-  {
-    "imageName" : "person.crop.rectangle.stack.fill",
-    "title": "Get started to discover the world of video games!",
-    "subtitle": "Create an account to start using goodgames",
-    "imageTypeId": 2
-  }
-  ]
+{
+    [
+    {
+        "imageName" : "hands.sparkles.fill",
+        "title": "Welcome to GoodGames",
+        "subtitle": "Discover the world of video games.",
+        "imageTypeId": 1
+    },
+    {
+        "imageName": "bookmark.fill",
+        "title": "Find your favorites",
+        "subtitle" : "Save your favorite games to your wish list, purchased list, or played list and easily search for them whenever you want.",
+        "imageTypeId" : 0
+    },
+    {
+        "imageName" : "Onboarding",
+        "title" : "Filter or browse categories with our magical buttons!",
+        "subtitle" : "You can filter by platform, genre, and categories to find the video games you want.",
+        "imageTypeId" : 0
+    },
+    {
+        "imageName" : "person.crop.rectangle.stack.fill",
+        "title": "Get started to discover the world of video games!",
+        "subtitle": "Create an account to start using goodgames",
+        "imageTypeId": 2
+    }
+]
+}
