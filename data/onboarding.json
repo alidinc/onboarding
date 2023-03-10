@@ -1,5 +1,4 @@
-{
-    [
+[
     {
         "imageName" : "hands.sparkles.fill",
         "title": "Welcome to GoodGames",
@@ -25,4 +24,3 @@
         "imageTypeId": 2
     }
 ]
-}
