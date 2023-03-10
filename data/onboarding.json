@@ -1,9 +1,8 @@
-{
-  [
+[
     {
       "id": 4,
       "created_at": 1297555200,
-      "name": "Fighting",
+      "name": "ALI",
       "slug": "fighting",
       "updated_at": 1323216000,
       "url": "https://www.igdb.com/genres/fighting",
@@ -208,4 +207,3 @@
       "checksum": "ef2ff68a-f7bd-d2d0-76cb-c830bd6e3191"
     }
   ]
-}
